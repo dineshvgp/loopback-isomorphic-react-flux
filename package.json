@@ -16,7 +16,7 @@
     "consolidate": "^0.13.1",
     "cors": "^2.5.2",
     "flux": "^2.0.1",
-    "gulp": "^3.9.1",
+    "gulp": "^5.0.0",
     "gulp-notify": "^2.2.0",
     "gulp-util": "^3.0.7",
     "handlebars": "^4.0.5",
